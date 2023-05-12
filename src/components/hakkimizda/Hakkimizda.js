@@ -62,7 +62,7 @@ function Hakkimizda() {
         </div>
        
                
-                <p className="instaLink" style={{textAlign:"center",color:"gray"}}>Detaylı güncel fotoğraf ve videolar için <a className="instagram"  href="https://www.instagram.com/lavinyagoldendiyarbakir/" target="_blank">Erzurum Hmayra Beauty Salon</a> instagram profilimizi ziyaret edebilirsiniz. </p>
+                <p className="instaLink" style={{textAlign:"center",color:"gray"}}>Detaylı güncel fotoğraf ve videolar için <a className="instagram"  href="https://www.instagram.com/hmayra.beauty.erzurum/" target="_blank">Erzurum Hmayra Beauty Salon</a> instagram profilimizi ziyaret edebilirsiniz. </p>
                
            
       </div>

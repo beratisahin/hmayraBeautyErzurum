@@ -2,8 +2,11 @@
   
   overflow-x: hidden !important;
   padding: 0% !important;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
 /*
 .footerHr{
   border-top: 1px dashed gray;
