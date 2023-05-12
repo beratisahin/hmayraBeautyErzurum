@@ -41,7 +41,7 @@ function Iletisim() {
         </a>
         <p className="contactText">
         <span style={{color:"red"}}><b>Rezervasyon:</b></span><br/>
-          <b>05011 336 21 25</b>
+          <b>0501 336 21 25</b>
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
@@ -57,7 +57,7 @@ function Iletisim() {
         </a>
         <p className="contactText">
         <span style={{color:"red"}}><b>WhatsApp:</b></span><br/>
-          <b>05011 336 21 25</b>
+          <b>0501 336 21 25</b>
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
