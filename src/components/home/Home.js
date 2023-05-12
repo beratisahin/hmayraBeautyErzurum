@@ -33,7 +33,6 @@ function Home() {
 
       <hr />
       <div
-       
         style={{ margin: "auto", display: "block", justifyContent: "center" }}
       >
         <Social />
@@ -54,14 +53,14 @@ function Home() {
         <Owl />
       </div>
       <hr />
-      
+
       <div className="row m-2">
         <div
           className="col-lg-6 col-md-6 col-sm-6 col-12"
           style={{ marginTop: "2.5rem" }}
         >
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d785251.6486873846!2d41.255986!3d39.753368!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x660032f724348503%3A0xce4bc9034f414486!2sErzurum%20Hmayra%20Beauty%20Salon!5e0!3m2!1str!2str!4v1682022058740!5m2!1str!2str"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1730.1197760308407!2d41.26644978285097!3d39.906821328090636!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x660032f724348503%3A0xce4bc9034f414486!2sErzurum%20Hmayra%20Beauty%20Salon!5e0!3m2!1str!2str!4v1683934292007!5m2!1str!2str"
             className="googleharita"
             style={{
               width: "100%",
@@ -79,7 +78,7 @@ function Home() {
             {" "}
           </iframe>
         </div>
-        
+
         <div
           className="col-lg-6 col-md-6 col-sm-6 col-12"
           style={{ marginTop: "2.5rem" }}
